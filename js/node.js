@@ -1,4 +1,4 @@
-export class Node
+module.exports = class Node
 {
     constructor(action, state, parent)
     {

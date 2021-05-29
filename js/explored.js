@@ -1,4 +1,4 @@
-export class Explored extends Object
+module.exports = class Explored extends Object
 {
     add(state)
     {
